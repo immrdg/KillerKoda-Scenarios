@@ -25,4 +25,4 @@ BASHRC
 chown ubuntu:ubuntu /home/ubuntu/.bashrc
 
 # Launch the terminal as ubuntu user
-su ubuntu
+su - ubuntu
