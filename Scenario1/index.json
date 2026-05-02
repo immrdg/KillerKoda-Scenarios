@@ -1,0 +1,17 @@
+{
+  "title": "Basic Linux Scenario",
+  "description": "A basic setup scenario.",
+  "backend": {
+    "imageid": "ubuntu"
+  },
+  "details": {
+    "intro": {
+      "text": "intro.md",
+      "background": "background.sh"
+    }
+  },
+  "environment": {
+    "uilayout": "terminal",
+    "user": "ubuntu"
+  }
+}
