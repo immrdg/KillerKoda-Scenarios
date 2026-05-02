@@ -12,6 +12,6 @@
   },
   "environment": {
     "uilayout": "terminal",
-    "user": "ubuntu"
+    "initUser": "ubuntu"
   }
 }
